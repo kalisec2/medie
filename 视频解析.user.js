@@ -36,12 +36,6 @@
 ***********************************************************
 应Greasyfork.org网站规则要求，
 视频脚本将视频解析、音乐下载、视频下载等功能拆分为多个脚本:
-https://greasyfork.org/zh-CN/scripts/467776
-https://greasyfork.org/zh-CN/scripts/469604
-https://greasyfork.org/zh-CN/scripts/469689
-https://greasyfork.org/zh-CN/scripts/468015
-https://greasyfork.org/zh-CN/scripts/469521
-可自行分别安装。
 ***********************************************************
 */
 
