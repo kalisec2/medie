@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         视频解析 ——— 全网 VIP 视频破解去广告
+// @name         ApiUrl_视频解析
 // @namespace    lr-toolbox-VideoPlay
 // @version      1.0.13
 // @description  ⭕精选解析线路为大家提供优酷、爱奇艺、腾讯、B站(bilibili)、乐视、芒果、搜狐、PPTV等各大视频网站(PC+移动端)视频解析服务，让你省去购买视频VIP费用。⭕去除原视频广告。⭕可自由增加修改线路。⭕可自由选择站内外解析。⭕可自由修改图标位置、大小、透明度。❌拒绝收费。⭕持续更新。
@@ -61,12 +61,8 @@ https://greasyfork.org/zh-CN/scripts/469521
     if(isMobile){
 
         let playLine = [
-            {"name":"纯净1","url":"https://im1907.top/?jx="},
-            {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url="},
-            {"name":"B站vip","url":"https://43.240.74.102:4433/?url="},
-            {"name":"爱豆","url":"https://jx.aidouer.net/?url="},
-            {"name":"听乐","url":"https://jx.dj6u.com/?url="},
-            {"name":"YT","url":"https://jx.yangtu.top/?url="}
+            {"name":"稳定解析","url":"https://jx.xmflv.cc/?url="},
+            {"name":"全民解析","url":"https://43.240.74.102:4433/?url="},
         ];
 
         let useWeb = ['m.bilibili.com','youku.com','www.youku.com','m.youku.com','m.v.qq.com','m.iqiyi.com','m.mgtv.com','m.tv.sohu.com','m.1905.com','m.pptv.com','m.le.com'];
