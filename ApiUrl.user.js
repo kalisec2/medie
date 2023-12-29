@@ -481,7 +481,7 @@
         var playLine = [
                 {"name":"稳定解析","url":"https://jx.xmflv.cc/?url=","mobile":1},
                 {"name":"全民解析","url":"https://43.240.74.102:4433/?url=","mobile":1},
-                {"name":"爱豆","url":"https://jx.aidouer.net/?url=","mobile":1},
+                {"name":"playerjy","url":"https://jx.playerjy.com/?url=","mobile":1},
                 {"name":"BL","url":"https://vip.bljiex.com/?v=","mobile":0},
                 {"name":"冰豆","url":"https://bd.jx.cn/?url=","mobile":0},
                 {"name":"CK","url":"https://www.ckplayer.vip/jiexi/?url=","mobile":0},
