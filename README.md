@@ -1,4 +1,4 @@
-[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]() [![Install](https://img.shields.io/badge/安装-005201)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
+[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]() [![Install](https://img.shields.io/badge/安装-005202)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
 
 
 一个神奇的[脚本](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)。
@@ -244,4 +244,4 @@ safari可以使用Tampermonkey，但是因为浏览器内核不一样，使用�
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]()  [![Install](https://img.shields.io/badge/更新脚本-005201)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
+[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]()  [![Install](https://img.shields.io/badge/更新脚本-005202)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
