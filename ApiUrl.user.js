@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ApiUrl_视频解析
+// @name         ApiUrl（视频解析）
 // @namespace    lr-toolbox-VideoPlay
 // @version      1.0.18
 // @description  ⭕精选解析线路为大家提供优酷、爱奇艺、腾讯、B站(bilibili)、乐视、芒果、搜狐、PPTV等各大视频网站(PC+移动端)视频解析服务，让你省去购买视频VIP费用。⭕去除原视频广告。⭕可自由增加修改线路。⭕可自由选择站内外解析。⭕可自由修改图标位置、大小、透明度。❌拒绝收费。⭕持续更新。
@@ -18,6 +18,26 @@
 // @match        *://film.sohu.com/*
 // @match        *://*.bilibili.com/*
 // @match        *://*.pptv.com/*
+// @match        *://item.taobao.com/*
+// @match        *://s.taobao.com/*
+// @match        *://chaoshi.detail.tmall.com/*
+// @match        *://detail.tmall.com/*
+// @match        *://detail.tmall.hk/*
+// @match        *://item.jd.com/*
+// @match        *://*.yiyaojd.com/*
+// @match        *://npcitem.jd.hk/*
+// @match        *://*.liangxinyao.com/*
+// @match        *://music.163.com/*
+// @match        *://y.qq.com/*
+// @match        *://*.kugou.com/*
+// @match        *://*.kuwo.cn/*
+// @match        *://*.ximalaya.com/*
+// @match        *://*.zhihu.com/*
+// @match        *://*.douyin.com/*
+// @match        *://*.kuaishou.com/*
+// @match        *://*.ixigua.com/*
+// @match        *://*.youtube.com/*
+// @match        *://47.99.158.118/*
 // @grant        GM_registerMenuCommand
 // @grant        GM_unregisterMenuCommand
 // @grant        GM_setValue
@@ -26,8 +46,10 @@
 // @grant        GM_download
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
+// @connect      iesdouyin.com
+// @connect      47.99.158.118
 // @connect      api.typechrome.com
-// @connect      gitlab.com
+// @connect      github.com
 // @downloadURL https://update.greasyfork.org/scripts/483375/ApiUrl_%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.user.js
 // @updateURL https://update.greasyfork.org/scripts/483375/ApiUrl_%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.meta.js
 // ==/UserScript==
