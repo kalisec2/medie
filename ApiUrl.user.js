@@ -28,8 +28,8 @@
 // @grant        GM_setClipboard
 // @connect      api.typechrome.com
 // @connect      gitlab.com
-// @downloadURL https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js
-// @updateURL https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js
+// @downloadURL https://update.greasyfork.org/scripts/483375/ApiUrl_%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.user.js
+// @updateURL https://update.greasyfork.org/scripts/483375/ApiUrl_%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.meta.js
 // ==/UserScript==
 
 /*
