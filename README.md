@@ -1,4 +1,4 @@
-[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]() [![Install](https://img.shields.io/badge/安装-005203)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
+[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]() [![Install](https://img.shields.io/badge/安装-005204)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
 
 
 一个神奇的[脚本](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)。
@@ -235,8 +235,12 @@ safari可以使用Tampermonkey，但是因为浏览器内核不一样，使用�
 
 <details><summary>日志(展开)</summary>
 <p>
+1.0.17
+删除不可用接口
 1.0.16
-添加新的接口
+添加新的解析接口    
+1.0.15
+修复不可用接口
 1.0.14
 脚本自主维护，代码由懒人提供
 
@@ -245,4 +249,4 @@ safari可以使用Tampermonkey，但是因为浏览器内核不一样，使用�
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]()  [![Install](https://img.shields.io/badge/更新脚本-005203)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
+[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]()  [![Install](https://img.shields.io/badge/更新脚本-005204)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
