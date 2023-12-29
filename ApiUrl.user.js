@@ -28,8 +28,8 @@
 // @grant        GM_setClipboard
 // @connect      api.typechrome.com
 // @connect      gitlab.com
-// @downloadURL https://update.greasyfork.org/scripts/467776/%F0%9F%92%AF%20%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8%E7%B3%BB%E5%88%97%20%E2%80%94%E2%80%94%E2%80%94%20%E5%85%A8%E7%BD%91%20VIP%20%E8%A7%86%E9%A2%91%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.user.js
-// @updateURL https://update.greasyfork.org/scripts/467776/%F0%9F%92%AF%20%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8%E7%B3%BB%E5%88%97%20%E2%80%94%E2%80%94%E2%80%94%20%E5%85%A8%E7%BD%91%20VIP%20%E8%A7%86%E9%A2%91%E7%A0%B4%E8%A7%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.meta.js
+// @downloadURL https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js
+// @updateURL https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js
 // ==/UserScript==
 
 /*
@@ -1163,7 +1163,7 @@
 
                 setHtml +="<ul class='iconSetFootLi'>";
 
-                setHtml +="<li><a href='https://gitlab.com/lanhaha/lanrenjiaoben#%E5%AE%89%E8%A3%85tm' target='_blank'>"+lang.scriptsinstall+"</a></li>・<li><a href='https://gitlab.com/lanhaha/lanrenjiaoben#%E4%BD%BF%E7%94%A8' target='_blank'>"+lang.scriptsuse+"</a></li>・<li><a href='https://gitlab.com/lanhaha/lanrenjiaoben#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98' target='_blank'>"+lang.question+"</a></li>・<li><a href='https://t.me/+sGo6ZZvy54wzYTll' target='_blank'>"+lang.tggroup+"</a></li>";
+                setHtml +="<li><a href='https://github.com/kalisec2/medie/tree/main#安装' target='_blank'>"+lang.scriptsinstall+"</a></li>・<li><a href='https://github.com/kalisec2/medie/tree/main#使用' target='_blank'>"+lang.scriptsuse+"</a></li>・<li><a href='https://github.com/kalisec2/medie/tree/main#常见问题' target='_blank'>"+lang.question+"</a></li>・<li><a href='#' target='_blank'>"+lang.tggroup+"</a></li>";
 
                 setHtml +='</ul>';
 
@@ -2051,9 +2051,9 @@ console.log(url);
 
                 super();
 
-                this.versionUrl = 'https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/README.md?ref_type=heads';
+                this.versionUrl = 'https://github.com/kalisec2/medie/blob/main/README.md?ref_type=heads';
 
-                this.renewVersionUrl = 'https://gitlab.com/lanhaha/lanrenjiaoben#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97';
+                this.renewVersionUrl = 'https://github.com/kalisec2/medie/blob/main#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97';
 
                 let tipPageWrap = document.createElement('div');
 
