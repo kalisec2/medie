@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ApiUrl_视频解析
+// @name         medie - ApiUrl视频解析
 // @namespace    lr-toolbox-VideoPlay
 // @version      1.0.19
 // @description  ⭕精选解析线路为大家提供优酷、爱奇艺、腾讯、B站(bilibili)、乐视、芒果、搜狐、PPTV等各大视频网站(PC+移动端)视频解析服务，让你省去购买视频VIP费用。⭕去除原视频广告。⭕可自由增加修改线路。⭕可自由选择站内外解析。⭕可自由修改图标位置、大小、透明度。❌拒绝收费。⭕持续更新。
