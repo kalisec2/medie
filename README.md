@@ -1,7 +1,7 @@
-[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)](https://t.me/+sGo6ZZvy54wzYTll) [![Install](https://img.shields.io/badge/安装-005200)](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)
+[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)](https://t.me/+sGo6ZZvy54wzYTll) [![Install](https://img.shields.io/badge/安装-005200)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
 
 
-一个神奇的[脚本](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)。
+一个神奇的[脚本](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)。
 
 - [安装TM](#安装tm)
 - [安装脚本](#安装脚本)
@@ -61,7 +61,7 @@ X浏览器和VIA浏览器自带插件，无需安装。
    
    懒人脚本**完整版**安装地址: 
 
-   [https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)
+   [https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
 
 ## 使用
 
@@ -193,7 +193,7 @@ safari可以使用Tampermonkey，但是因为浏览器内核不一样，使用�
 正常情况不可以，有能力的可以自行研究。
 
 6. 脚本弹出更新提示怎么办？<br>
-脚本在发现新版本后会弹出更新提示。点击“忽略”则当天不会再有提示；点击“查看更新”并更新到[最新版](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)的脚本则不会再有提示。 [点击更新](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)
+脚本在发现新版本后会弹出更新提示。点击“忽略”则当天不会再有提示；点击“查看更新”并更新到[最新版](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)的脚本则不会再有提示。 [点击更新](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
 
 </p>
 </details>
@@ -261,4 +261,4 @@ safari可以使用Tampermonkey，但是因为浏览器内核不一样，使用�
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)](https://t.me/+sGo6ZZvy54wzYTll)  [![Install](https://img.shields.io/badge/更新脚本-005200)](https://gitlab.com/lanhaha/lanrenjiaoben/-/raw/main/jx.user.js)
+[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)](https://t.me/+sGo6ZZvy54wzYTll)  [![Install](https://img.shields.io/badge/更新脚本-005200)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
