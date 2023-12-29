@@ -1,4 +1,4 @@
-[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)](https://t.me/+sGo6ZZvy54wzYTll) [![Install](https://img.shields.io/badge/安装-005200)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
+[![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Android%20%7C%20IOS-red.svg)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js) [![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]() [![Install](https://img.shields.io/badge/安装-005201)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
 
 
 一个神奇的[脚本](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)。
@@ -236,29 +236,12 @@ safari可以使用Tampermonkey，但是因为浏览器内核不一样，使用�
 <details><summary>日志(展开)</summary>
 <p>
 
-6.8.22
-优化视频解析线路
+1.0.14
+脚本自主维护，代码由懒人提供
 
-6.8.19
-优化快手下载按钮
-
-6.8.18
-优化视频解析线路
-
-6.8.16
-优化更新提示
-
-6.8.13
-修复知乎,b站,Youtube样式冲突
-
-6.8.12
-增加提醒更新内容
-
-6.8.10
-添加设置菜单foot内容
 </p>
 </details>
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)](https://t.me/+sGo6ZZvy54wzYTll)  [![Install](https://img.shields.io/badge/更新脚本-005200)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
+[![Telegram](https://img.shields.io/badge/Telegram-issues-blue?logo=telegram)]()  [![Install](https://img.shields.io/badge/更新脚本-005201)](https://github.com/kalisec2/medie/raw/main/ApiUrl.user.js)
