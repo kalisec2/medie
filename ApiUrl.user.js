@@ -47,8 +47,8 @@
 // @grant        GM_setClipboard
 // @connect      api.typechrome.com
 // @connect      github.com
-// @downloadURL https://update.greasyfork.org/scripts/483375/ApiUrl_%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.user.js
-// @updateURL https://update.greasyfork.org/scripts/483375/ApiUrl_%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.meta.js
+// @downloadURL https://update.greasyfork.org/scripts/483376/ApiUrl_%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.user.js
+// @updateURL https://update.greasyfork.org/scripts/483376/ApiUrl_%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90.meta.js
 // ==/UserScript==
 
 /*
