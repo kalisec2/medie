@@ -80,7 +80,7 @@
             {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url="},
             {"name":"爱豆","url":"https://jx.aidouer.net/?url="},
             {"name":"听乐","url":"https://jx.dj6u.com/?url="},
-            {"name":"YT","url":"https://jx.yangtu.top/?url="}
+            {"name":"YT","url":"https://jx.yangtu.top/?url="},
             {"name":"playerjy","url":"https://jx.playerjy.com/?url="},
             {"name":"BL","url":"https://vip.bljiex.com/?v="},
             {"name":"冰豆","url":"https://bd.jx.cn/?url="},
