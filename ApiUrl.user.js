@@ -547,7 +547,9 @@
                 {"name":"17云","url":"https://www.1717yun.com/jx/ty.php?url=","mobile":0},
                 {"name":"180","url":"https://jx.000180.top/jx/?url=","mobile":0},
                 {"name":"4K","url":"https://jx.4kdv.com/?url=","mobile":1},
-                {"name":"8090","url":"https://www.8090g.cn/?url=","mobile":0}
+                {"name":"8090","url":"https://www.8090g.cn/?url=","mobile":0},
+		{"name":"云解","url":"https://yparse.ik9.cc/index.php?url=","mobile":0},
+		{"name":"麒麟","url":"http://www.p2pjj.com/jiexi/jiexi-gf/?url=","mobile":0}
 			
             ]
 
@@ -1100,6 +1102,8 @@ YT,https://jx.yangtu.top/?url=
 4K,https://jx.4kdv.com/?url=
 2ys,https://gj.fenxiangb.com/player/analysis.php?v=
 8090,https://www.8090g.cn/?url=
+云解,https://yparse.ik9.cc/index.php?url=
+麒麟,http://www.p2pjj.com/jiexi/jiexi-gf/?url=
 `,
 
                      'valueName':'playVideoLineText'}
