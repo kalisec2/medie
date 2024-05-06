@@ -102,6 +102,8 @@
             {"name":"180","url":"https://jx.000180.top/jx/?url="},
             {"name":"4K","url":"https://jx.4kdv.com/?url="},
             {"name":"8090","url":"https://www.8090g.cn/?url="}
+	    {"name":"云解","url":"https://yparse.ik9.cc/index.php?url="}
+	    {"name":"麒麟","url":"http://www.p2pjj.com/jiexi/jiexi-gf/?url="}
             
         ];
 
